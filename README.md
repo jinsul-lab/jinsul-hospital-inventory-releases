@@ -1,2 +1,3 @@
-# jinsul-hospital-inventory-releases
-Public update manifest for 물품관리대장
+# 물품관리대장 업데이트
+
+JINSUL 물품관리대장의 공개 업데이트 정보만 보관합니다. 프로그램 소스와 병원 자료는 포함하지 않습니다.
